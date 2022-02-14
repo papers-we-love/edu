@@ -7,12 +7,20 @@ This is the repository for the Edu chapter of Papers We Love. As a chapter we fo
 This Papers We Love chapter is dedicated to academic and research papers around **Computer Science education**. We are a group of individuals interested in the learning and teaching of computer science. 
 
 Papers We Love Edu is a fully online chapter:
+- Papers We Love Edu events take place on the **last Thursday of the month** at [5pm UTC](https://everytimezone.com/convert/gmt/5pm).
 - Presentations are streamed live on [Twitch](https://twitch.tv/twilioquest).
 - Discussion and Q&A take place right [here on GitHub Discussions](https://github.com/papers-we-love/edu/discussions). 
 - Recordings of past presentations can be found on YouTube.
 - Keep up to date on [Twitter](https://twitter.com/PapersWeLoveEdu) or our mailing list.
 
 ### Upcoming meetups
+
+| Date / Time         | Presenter | Paper | Calendar |
+|---------------|-----------|-------|----|
+| 24th February / 5pm UTC |    [Juan Pablo Flores](https://github.com/juanpflores)   |   [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)    | |
+| 24th March / 5pm UTC    |     Caitlin Davey      |  [First Year Programming: Let All the Flowers Bloom](https://www.researchgate.net/publication/220832247_First_Year_Programming_Let_All_the_Flowers_Bloom)     | |
+| 24th April / 5pm UTC   |           |       | |
+
 
 ### Past events
 
