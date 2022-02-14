@@ -15,6 +15,8 @@ Papers We Love Edu is a fully online chapter:
 
 ### Upcoming meetups
 
+The below live presentations take place on Twitch, on the [TwilioQuest channel](https://twitch.tv/twilioquest).
+
 | Date / Time         | Presenter | Paper | Calendar |
 |---------------|-----------|-------|----|
 | 24th February / 5pm UTC |    [Juan Pablo Flores](https://github.com/juanpflores)   |   [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)    | |
