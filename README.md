@@ -12,6 +12,7 @@ Papers We Love Edu is a fully online chapter:
 - Discussion and Q&A take place right [here on GitHub Discussions](https://github.com/papers-we-love/edu/discussions). 
 - Recordings of past presentations can be found on YouTube.
 - Keep up to date on [Twitter](https://twitter.com/PapersWeLoveEdu) or our mailing list.
+- Subscribe to the [calendar](https://calendar.google.com/calendar/u/0?cid=dWYza3Q2bjAzYnA2b3I5djg1cGt2Mmd2NW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so you don't miss an event. 
 
 ### Upcoming meetups
 
@@ -19,7 +20,7 @@ The below live presentations take place on Twitch, on the [TwilioQuest channel](
 
 | Date / Time         | Presenter | Paper | Calendar |
 |---------------|-----------|-------|----|
-| 24th February / 5pm UTC |    [Juan Pablo Flores](https://github.com/juanpflores)   |   [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)    | |
+| 24th February / 5pm UTC |    [Juan Pablo Flores](https://github.com/juanpflores)   |   [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)    | [link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmNsMnJrcGZoOWxncGhzcXJyZzk2aHVlbGEgdWYza3Q2bjAzYnA2b3I5djg1cGt2Mmd2NW9AZw&tmsrc=uf3kt6n03bp6or9v85pkv2gv5o%40group.calendar.google.com) |
 | 24th March / 5pm UTC    |     Caitlin Davey      |  [First Year Programming: Let All the Flowers Bloom](https://www.researchgate.net/publication/220832247_First_Year_Programming_Let_All_the_Flowers_Bloom)     | |
 | 24th April / 5pm UTC   |           |       | |
 
