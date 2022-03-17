@@ -21,7 +21,7 @@ The below live presentations take place on Twitch, on the [TwilioQuest channel](
 | Date / Time         | Presenter | Paper | Discuss |
 |---------------|-----------|-------|----|
 | 24th March / 5pm UTC    |     Caitlin Davey      |  [First Year Programming: Let All the Flowers Bloom](https://www.researchgate.net/publication/220832247_First_Year_Programming_Let_All_the_Flowers_Bloom)     | [Discussion thread](https://github.com/papers-we-love/edu/discussions/4) |
-| 24th April / 5pm UTC   |     [Juan Pablo Flores](https://github.com/juanpflores)       |    [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)     | [Discussion thread](https://github.com/papers-we-love/edu/discussions/3) |
+| 28th April / 5pm UTC   |     [Juan Pablo Flores](https://github.com/juanpflores)       |    [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)     | [Discussion thread](https://github.com/papers-we-love/edu/discussions/3) |
 
 
 ### Past events
