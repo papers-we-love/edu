@@ -18,10 +18,10 @@ Papers We Love Edu is a fully online chapter:
 
 The below live presentations take place on Twitch, on the [TwilioQuest channel](https://twitch.tv/twilioquest).
 
-| Date / Time         | Presenter | Paper | Calendar |
+| Date / Time         | Presenter | Paper | Discuss |
 |---------------|-----------|-------|----|
-| 24th March / 5pm UTC    |     Caitlin Davey      |  [First Year Programming: Let All the Flowers Bloom](https://www.researchgate.net/publication/220832247_First_Year_Programming_Let_All_the_Flowers_Bloom)     | |
-| 24th April / 5pm UTC   |     [Juan Pablo Flores](https://github.com/juanpflores)       |    [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)     | |
+| 24th March / 5pm UTC    |     Caitlin Davey      |  [First Year Programming: Let All the Flowers Bloom](https://www.researchgate.net/publication/220832247_First_Year_Programming_Let_All_the_Flowers_Bloom)     | [Discussion thread](https://github.com/papers-we-love/edu/discussions/4) |
+| 24th April / 5pm UTC   |     [Juan Pablo Flores](https://github.com/juanpflores)       |    [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)     | [Discussion thread](https://github.com/papers-we-love/edu/discussions/3) |
 
 
 ### Past events
