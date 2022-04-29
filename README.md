@@ -7,10 +7,10 @@ This is the repository for the Edu chapter of Papers We Love. As a chapter we fo
 This Papers We Love chapter is dedicated to academic and research papers around **Computer Science education**. We are a group of individuals interested in the learning and teaching of computer science. 
 
 Papers We Love Edu is a fully online chapter:
-- Papers We Love Edu events take place on the **last Thursday of the month** at [5pm UTC](https://everytimezone.com/convert/gmt/5pm).
+- Papers We Love Edu events take place on the **last Thursday of the month** at 5pm UTC.
 - Presentations are streamed live on [Twitch](https://twitch.tv/twilioquest).
 - Discussion and Q&A take place right [here on GitHub Discussions](https://github.com/papers-we-love/edu/discussions). 
-- Recordings of past presentations can be found on YouTube.
+- Recordings of past presentations can be found in this [Twitch Collection](https://www.twitch.tv/collections/4ktlzca46RbN1Q).
 - Keep up to date on [Twitter](https://twitter.com/PapersWeLoveEdu) or our mailing list.
 - Subscribe to the [calendar](https://calendar.google.com/calendar/u/0?cid=dWYza3Q2bjAzYnA2b3I5djg1cGt2Mmd2NW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) so you don't miss an event. 
 
@@ -20,7 +20,8 @@ The below live presentations take place on Twitch, on the [TwilioQuest channel](
 
 | Date / Time         | Presenter | Paper | Discuss | 
 |---------------|-----------|-------|----|
-| 28th April / 5pm UTC   |     [Juan Pablo Flores](https://github.com/juanpflores)       |    [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)     | [Discussion thread](https://github.com/papers-we-love/edu/discussions/3) |
+| 26th May / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=628ec300,3fc) | [Jane Waite](https://scholar.google.com/citations?user=4zBtsnMAAAAJ&hl=en) | [Teaching programming in schools: A review of approaches and strategies](https://www.raspberrypi.org/app/uploads/2021/11/Teaching-programming-in-schools-pedagogy-review-Raspberry-Pi-Foundation.pdf) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/5) |
+| 30th June / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Mine Çetinkaya-Rundel](https://mine-cr.com/) | [An educator’s perspective of the tidyverse](https://doi.org/10.5070/T514154352) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/7) |
 
 
 ### Past events
@@ -28,7 +29,9 @@ The below live presentations take place on Twitch, on the [TwilioQuest channel](
 
 | Date / Time         | Presenter | Paper | Discuss | Recording |
 |---------------|-----------|-------|----|----|
+| 28th April / 5pm UTC   |     [Juan Pablo Flores](https://github.com/juanpflores)       |    [Teacher Professional Development around the World: The Gap between Evidence and Practice](https://github.com/papers-we-love/edu/discussions/2)     | [Discussion thread](https://github.com/papers-we-love/edu/discussions/3) | [Twitch](https://www.twitch.tv/videos/1469455478) |
 | 24th March / 5pm UTC    |     Caitlin Davey      |  [First Year Programming: Let All the Flowers Bloom](https://www.researchgate.net/publication/220832247_First_Year_Programming_Let_All_the_Flowers_Bloom)     | [Discussion thread](https://github.com/papers-we-love/edu/discussions/4) | [Twitch](https://www.twitch.tv/videos/1435428654) |
+
 
 ### Contact
 
