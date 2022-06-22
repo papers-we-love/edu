@@ -21,6 +21,7 @@ The below live presentations take place on Twitch, on the [TwilioQuest channel](
 | Date / Time         | Presenter | Paper | Discuss | 
 |---------------|-----------|-------|----|
 | 30th June / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Mine Çetinkaya-Rundel](https://mine-cr.com/) | [An educator’s perspective of the tidyverse](https://doi.org/10.5070/T514154352) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/6) |
+| 28th July / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Sarah Guthals](https://www.guthals.com/) | [The Abstraction Transition Taxonomy](https://dl.acm.org/doi/10.1145/2361276.2361290) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/8) |
 
 
 ### Past events
