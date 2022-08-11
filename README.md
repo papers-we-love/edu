@@ -20,8 +20,7 @@ The below live presentations take place on Twitch, on the [TwilioQuest channel](
 
 | Date / Time         | Presenter | Paper | Discuss | 
 |---------------|-----------|-------|----|
-
-
+| 25th August / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Joe & TBA guest host](https://twitter.com/jna_sh) | [ICER accepted papers](https://icer2022.acm.org/track/icer-2022-papers) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/9) | 
 
 ### Past events
 
