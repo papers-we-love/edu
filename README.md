@@ -20,7 +20,7 @@ The below live presentations take place on Twitch, on the [TwilioQuest channel](
 
 | Date / Time         | Presenter | Paper | Discuss | 
 |---------------|-----------|-------|----|
-| 29th September / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | TBA! | Suggest a paper! | [Discussion thread](https://github.com/papers-we-love/edu/discussions/1) |
+| 27th October / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | Hugh Rawlinson, Joe Nash | How to read a paper Special | [Discussion thread](https://github.com/papers-we-love/edu/discussions/10) |
 
 ### Past events
 
