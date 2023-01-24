@@ -7,7 +7,7 @@ This is the repository for the Edu chapter of Papers We Love. As a chapter we fo
 This Papers We Love chapter is dedicated to academic and research papers around **Computer Science education**. We are a group of individuals interested in the learning and teaching of computer science. 
 
 Papers We Love Edu is a fully online chapter:
-- Papers We Love Edu events take place on the **last Thursday of the month** at 5pm UTC.
+- Papers We Love Edu events take place on the **last Thursday of the month** at 6pm UTC.
 - Presentations are streamed live on [Twitch](https://twitch.tv/twilioquest).
 - Discussion and Q&A take place right [here on GitHub Discussions](https://github.com/papers-we-love/edu/discussions). 
 - Recordings of past presentations can be found in this [Twitch Collection](https://www.twitch.tv/collections/4ktlzca46RbN1Q).
@@ -20,13 +20,14 @@ The below live presentations take place on Twitch, on the [TwilioQuest channel](
 
 | Date / Time         | Presenter | Paper | Discuss | 
 |---------------|-----------|-------|----|
-| 27th October / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | Hugh Rawlinson, Joe Nash | How to read a paper Special | [Discussion thread](https://github.com/papers-we-love/edu/discussions/10) |
+| 26th January / 6pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Felienne Hermans](https://felienne.com) | Hedy: A Gradual Language for Programming Education | [Discussion thread](https://github.com/papers-we-love/edu/discussions/11) |
 
 ### Past events
 
 
 | Date / Time         | Presenter | Paper | Discuss | Recording |
 |---------------|-----------|-------|----|----|
+| 27th October / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | Hugh Rawlinson, Joe Nash | How to read a paper Special | [Discussion thread](https://github.com/papers-we-love/edu/discussions/10) | TBC |
 | 25th August / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Joe & TBA guest host](https://twitter.com/jna_sh) | [ICER accepted papers](https://icer2022.acm.org/track/icer-2022-papers) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/9) | [Twitch](https://www.twitch.tv/videos/1572329595)|
 | 28th July / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Sarah Guthals](https://www.guthals.com/) | [The Abstraction Transition Taxonomy](https://dl.acm.org/doi/10.1145/2361276.2361290) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/8) | [Twitch](https://www.twitch.tv/videos/1545460833) |
 | 30th June / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Mine Çetinkaya-Rundel](https://mine-cr.com/) | [An educator’s perspective of the tidyverse](https://doi.org/10.5070/T514154352) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/6) | [Twitch](https://www.twitch.tv/videos/1518614287) |
