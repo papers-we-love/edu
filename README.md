@@ -20,13 +20,14 @@ The below live presentations take place on Twitch, on the [TwilioQuest channel](
 
 | Date / Time         | Presenter | Paper | Discuss | 
 |---------------|-----------|-------|----|
-| 26th January / 6pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Felienne Hermans](https://felienne.com) | Hedy: A Gradual Language for Programming Education | [Discussion thread](https://github.com/papers-we-love/edu/discussions/11) |
+| 23rd February / 6pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | TBC | TBC | TBC |
 
 ### Past events
 
 
 | Date / Time         | Presenter | Paper | Discuss | Recording |
 |---------------|-----------|-------|----|----|
+| 26th January 2023 / 6pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Felienne Hermans](https://felienne.com) | Hedy: A Gradual Language for Programming Education | [Discussion thread](https://github.com/papers-we-love/edu/discussions/11) | https://www.twitch.tv/videos/1719122823 |
 | 27th October / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | Hugh Rawlinson, Joe Nash | How to read a paper Special | [Discussion thread](https://github.com/papers-we-love/edu/discussions/10) | TBC |
 | 25th August / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Joe & TBA guest host](https://twitter.com/jna_sh) | [ICER accepted papers](https://icer2022.acm.org/track/icer-2022-papers) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/9) | [Twitch](https://www.twitch.tv/videos/1572329595)|
 | 28th July / 5pm UTC / [Find your timezone](https://everytimezone.com/?t=62bce780,3fc) | [Sarah Guthals](https://www.guthals.com/) | [The Abstraction Transition Taxonomy](https://dl.acm.org/doi/10.1145/2361276.2361290) | [Discussion thread](https://github.com/papers-we-love/edu/discussions/8) | [Twitch](https://www.twitch.tv/videos/1545460833) |
